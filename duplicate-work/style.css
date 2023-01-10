@@ -1,0 +1,155 @@
+header{
+    /* display: flex; */
+    background-color: slategrey;
+    padding: 20px;
+}
+
+.container2 {
+    position: relative;
+    top: 20px;
+    left: 750px;
+    word-spacing: 30px;
+}
+
+header span{
+    color: aqua;
+}
+
+.container2 a{
+    text-decoration: none;
+    position: relative;
+    top: -55px;
+    left: 439px;
+    color: #fff;
+}
+
+hr{
+    color: red;
+    border: solid 3px red;
+}
+
+*{
+    font-family: sans-serif;
+}
+
+.container1{
+    padding-left: 90px;
+}
+
+.container3 input{
+    height: 36px;
+    width: 300px;
+    position: relative;
+    left: 950px;
+    top: -30px;
+    border: none;
+}
+
+.container3 button{
+    height: 40px;
+    width: 100px;
+    position: relative;
+    left: 950px;
+    top: -30px;
+    background-color: red;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+.sub-header{
+    padding-left: 90px;
+    padding-top: 10px;
+}
+
+.container3 h2{
+    color: #fff;
+}
+
+.container1 h2{
+    color: #fff;
+}
+
+.inner-container1{
+    margin-left: 180px;
+    background-color: darkgray;
+    width: 500px;
+    height: 200px;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.inner-container2{
+    margin-left: 180px;
+    background-color: darkgray;
+    width: 500px;
+    height: 200px;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.subinner-container1{
+    margin-top: 30px;
+    padding-left: 15px;
+}
+
+form{
+    position: relative;
+    left: 900px;
+    top: -1050px;
+    background-color: slategrey;
+    width: 300px;
+    padding: 20px;
+    color: #fff;
+}
+
+form input{
+    width:  250px;
+    height: 27px; 
+}
+
+#span{
+    height: 40px;
+}
+
+form a button{
+    height: 45px;
+    width: 74px;
+    margin-top: 7px;
+    border: none;
+    background-color: red;
+    color: #fff;
+    cursor: pointer;
+}
+
+main > h3{
+    margin-left: 180px;
+}
+
+.inner-container3{
+    margin-left: 180px;
+    background-color: darkgray;
+    width: 500px;
+    height: 200px;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.inner-container4{
+    margin-left: 180px;
+    background-color: darkgray;
+    width: 500px;
+    height: 200px;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+footer{
+    /* text-align: center; */
+    background-color: orangered;
+    height: 100px;
+    padding-top: 40px;
+    padding-left: 550px;
+    color: #fff;
+    margin-top: -300px;
+}
